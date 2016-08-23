@@ -37,9 +37,9 @@ darin, wann eine "Berufung auf Privat-, Geheim- und Intimsphäre [...]
 nicht mehr möglich ist".
 
 Schon seltsam. Ohne viel Ahnung, was diese fiesen Algorithmen
-eigentlich sind, solle die *normalen Trottel da draußen* die erstmal
-verstehen müssen bevor sie bei Wikipedia etwas finden dürfen. Apropos
-Wikipedia: Ein [überraschend guter
+eigentlich sind, sollen die *normalen Trottel da draußen* die doch
+erstmal verstehen müssen, bevor sie bei Wikipedia etwas darüber finden
+dürfen. Apropos Wikipedia: Ein [überraschend guter
 Einstieg](https://de.wikipedia.org/wiki/Bin%C3%A4rer_Suchbaum) in
 viele technische, aber auch medizinische Themen. Herr Runde ist sicher
 zu beschäftigt, sich das alles jetzt durchlesen zu können. Mehr als
