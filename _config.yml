@@ -11,7 +11,7 @@ email:
 description: >
   Geschichten über alles und jeden. Kritik. Liebe. Vernunft.
   Schokolade.
-baseurl: "/blog"
+baseurl: ""
 url: "http://lotterei.github.io"
 twitter_username:
 github_username:
